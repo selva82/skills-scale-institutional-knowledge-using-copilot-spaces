@@ -41,7 +41,7 @@ OctoAcme uses a structured Risk Register approach to identify, assess, and monit
 ## Documentation Guide
 
 | Document | Purpose |
-|----------|---------|
+|----------|----------|
 | [Project Management Overview](octoacme-project-management-overview.md) | Concise introduction to OctoAcme approach, roles, and key artifacts |
 | [Project Initiation Guide](octoacme-project-initiation.md) | Steps to validate work, align stakeholders, and authorize projects |
 | [Project Planning](octoacme-project-planning.md) | Turn approved initiatives into actionable plans and backlogs |
